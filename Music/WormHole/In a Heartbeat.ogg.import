@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://7u0nsuhgf6o2"
+path="res://.godot/imported/In a Heartbeat.ogg-808f970c9e922abe19050b23a8ea07d7.oggvorbisstr"
+
+[deps]
+
+source_file="res://Music/WormHole/In a Heartbeat.ogg"
+dest_files=["res://.godot/imported/In a Heartbeat.ogg-808f970c9e922abe19050b23a8ea07d7.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

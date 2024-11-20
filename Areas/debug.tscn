@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c3u60a4o0gv86"]
+
+[ext_resource type="PackedScene" uid="uid://bkmwm4v0bchdn" path="res://Models/Flyers/flyingPig.fbx" id="1_sd13p"]
+
+[node name="Debug" type="Node3D"]
+
+[node name="flyingPig" parent="." instance=ExtResource("1_sd13p")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.113808, -0.0891261, 0.00252694)

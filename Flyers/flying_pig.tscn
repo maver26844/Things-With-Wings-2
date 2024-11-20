@@ -1,0 +1,17 @@
+[gd_scene load_steps=5 format=3 uid="uid://bl4lwo1ureaiq"]
+
+[ext_resource type="PackedScene" uid="uid://bkmwm4v0bchdn" path="res://Models/Flyers/flyingPig.fbx" id="1_857yy"]
+[ext_resource type="Texture2D" uid="uid://b430omat11rn8" path="res://Textures/flyingPig.png" id="2_drjc6"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_n5k7o"]
+albedo_texture = ExtResource("2_drjc6")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8ajwk"]
+albedo_texture = ExtResource("2_drjc6")
+
+[node name="flyingPig" instance=ExtResource("1_857yy")]
+
+[node name="Plane_001" parent="Armature/Skeleton3D" index="0"]
+transform = Transform3D(1, 0, 0, 0, 1, -2.84217e-14, 0, 2.84217e-14, 1, 0.000411182, 0.00769548, 1.04541e-08)
+surface_material_override/0 = SubResource("StandardMaterial3D_n5k7o")
+surface_material_override/1 = SubResource("StandardMaterial3D_8ajwk")

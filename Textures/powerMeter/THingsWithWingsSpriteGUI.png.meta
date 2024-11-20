@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 6c7923d333f4ba9468878ebd6db59103
+timeCreated: 1472106731
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: THingsWithWingsSpriteGUI_0
+    21300002: THingsWithWingsSpriteGUI_1
+    21300004: THingsWithWingsSpriteGUI_2
+    21300006: THingsWithWingsSpriteGUI_3
+    21300008: THingsWithWingsSpriteGUI_4
+    21300010: THingsWithWingsSpriteGUI_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: THingsWithWingsSpriteGUI_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 227
+        width: 176
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 80.5}
+        - {x: -87, y: 45.5}
+        - {x: -88, y: 41.5}
+        - {x: -88, y: -41.5}
+        - {x: -58, y: -80.5}
+        - {x: 46, y: -80.5}
+        - {x: 76, y: -40.5}
+        - {x: 76, y: 80.5}
+      - - {x: 84, y: -19.5}
+        - {x: 84, y: -22.5}
+        - {x: 86, y: -24.5}
+        - {x: 88, y: -23.5}
+        - {x: 88, y: -16.5}
+        - {x: 87, y: -16.5}
+    - name: THingsWithWingsSpriteGUI_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 210
+        width: 136
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline:
+      - - {x: -68, y: 90.5}
+        - {x: -68, y: -30.5}
+        - {x: -67, y: -58.5}
+        - {x: -20, y: -90.5}
+        - {x: 61, y: -90.5}
+        - {x: 68, y: -76.5}
+        - {x: 68, y: 90.5}
+      - - {x: -29, y: -37.5}
+        - {x: -38, y: -47.5}
+        - {x: -39, y: -52.5}
+        - {x: -37, y: -54.5}
+        - {x: -32, y: -54.5}
+        - {x: -25, y: -42.5}
+        - {x: -25, y: -37.5}
+    - name: THingsWithWingsSpriteGUI_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 211
+        width: 128
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 87}
+        - {x: -64, y: -27}
+        - {x: -57, y: -56}
+        - {x: -34, y: -56}
+        - {x: -25, y: -43}
+        - {x: -26, y: -59}
+        - {x: 4, y: -86}
+        - {x: 13, y: -87}
+        - {x: 24, y: -87}
+        - {x: 64, y: -54}
+        - {x: 64, y: 87}
+      - - {x: -64, y: 10}
+        - {x: -64, y: -8}
+        - {x: -61, y: -10}
+        - {x: -58, y: -9}
+        - {x: -58, y: -3}
+        - {x: -60, y: 9}
+        - {x: -63, y: 10}
+    - name: THingsWithWingsSpriteGUI_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 221
+        width: 121
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 82}
+        - {x: -60.5, y: -51}
+        - {x: -50.5, y: -82}
+        - {x: 40.5, y: -82}
+        - {x: 60.5, y: -59}
+        - {x: 60.5, y: 56}
+        - {x: 57.5, y: 82}
+    - name: THingsWithWingsSpriteGUI_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 25
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 91.5}
+        - {x: -74.5, y: 52.5}
+        - {x: -74.5, y: -1.5}
+        - {x: -59.5, y: -7.5}
+        - {x: -40.5, y: -14.5}
+        - {x: -69.5, y: -13.5}
+        - {x: -74.5, y: -15.5}
+        - {x: -74.5, y: -49.5}
+        - {x: -51.5, y: -91.5}
+        - {x: 35.5, y: -91.5}
+        - {x: 74.5, y: -69.5}
+        - {x: 74.5, y: 15.5}
+        - {x: 54.5, y: 91.5}
+    - name: THingsWithWingsSpriteGUI_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 26
+        width: 401
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200.5, y: 67.5}
+        - {x: 198.5, y: 72.5}
+        - {x: 189.5, y: 80.5}
+        - {x: 188.5, y: 81.5}
+        - {x: -187.5, y: 81.5}
+        - {x: -188.5, y: 80.5}
+        - {x: -189.5, y: 80.5}
+        - {x: -199.5, y: 70.5}
+        - {x: -199.5, y: 69.5}
+        - {x: -200.5, y: 68.5}
+        - {x: -200.5, y: -67.5}
+        - {x: -199.5, y: -68.5}
+        - {x: -199.5, y: -69.5}
+        - {x: -190.5, y: -79.5}
+        - {x: -185.5, y: -81.5}
+        - {x: 185.5, y: -81.5}
+        - {x: 190.5, y: -79.5}
+        - {x: 198.5, y: -71.5}
+        - {x: 200.5, y: -66.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

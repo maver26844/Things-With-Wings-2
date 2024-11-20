@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c3ltxacnd07hv"
+path="res://.godot/imported/Blue Ska.ogg-a7e9a443954a768e8f46beaffbf083d8.oggvorbisstr"
+
+[deps]
+
+source_file="res://Music/Title/Blue Ska.ogg"
+dest_files=["res://.godot/imported/Blue Ska.ogg-a7e9a443954a768e8f46beaffbf083d8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

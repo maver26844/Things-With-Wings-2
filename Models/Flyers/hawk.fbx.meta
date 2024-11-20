@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: e908ddc4fa917eb4a943fc4b418a0e43
+timeCreated: 1471920702
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Camera
+    100004: Cube
+    100006: Cube.001
+    100008: elbw.L
+    100010: elbw.R
+    100012: hand.L
+    100014: hand.L_end
+    100016: hand.R
+    100018: hand.R_end
+    100020: //RootNode
+    100022: head
+    100024: head_end
+    100026: Lamp
+    100028: lowerTail
+    100030: lowerTail_end
+    100032: neck
+    100034: shoulder.L
+    100036: shoulder.R
+    100038: spine
+    100040: upperTail
+    400000: Armature
+    400002: Camera
+    400004: Cube
+    400006: Cube.001
+    400008: elbw.L
+    400010: elbw.R
+    400012: hand.L
+    400014: hand.L_end
+    400016: hand.R
+    400018: hand.R_end
+    400020: //RootNode
+    400022: head
+    400024: head_end
+    400026: Lamp
+    400028: lowerTail
+    400030: lowerTail_end
+    400032: neck
+    400034: shoulder.L
+    400036: shoulder.R
+    400038: spine
+    400040: upperTail
+    4300000: Cube
+    4300002: Cube.001
+    7400000: flap
+    7400002: float
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+    13700002: Cube.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: flap
+      takeName: Armature|flap
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/shoulder.L
+        weight: 1
+      - path: Armature/shoulder.L/elbw.L
+        weight: 1
+      - path: Armature/shoulder.L/elbw.L/hand.L
+        weight: 1
+      - path: Armature/shoulder.L/elbw.L/hand.L/hand.L_end
+        weight: 1
+      - path: Armature/shoulder.R
+        weight: 1
+      - path: Armature/shoulder.R/elbw.R
+        weight: 1
+      - path: Armature/shoulder.R/elbw.R/hand.R
+        weight: 1
+      - path: Armature/shoulder.R/elbw.R/hand.R/hand.R_end
+        weight: 1
+      - path: Armature/spine
+        weight: 1
+      - path: Armature/spine/neck
+        weight: 1
+      - path: Armature/spine/neck/head
+        weight: 1
+      - path: Armature/spine/neck/head/head_end
+        weight: 1
+      - path: Armature/upperTail
+        weight: 1
+      - path: Armature/upperTail/lowerTail
+        weight: 1
+      - path: Armature/upperTail/lowerTail/lowerTail_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: float
+      takeName: Armature|float
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/shoulder.L
+        weight: 1
+      - path: Armature/shoulder.L/elbw.L
+        weight: 1
+      - path: Armature/shoulder.L/elbw.L/hand.L
+        weight: 1
+      - path: Armature/shoulder.L/elbw.L/hand.L/hand.L_end
+        weight: 1
+      - path: Armature/shoulder.R
+        weight: 1
+      - path: Armature/shoulder.R/elbw.R
+        weight: 1
+      - path: Armature/shoulder.R/elbw.R/hand.R
+        weight: 1
+      - path: Armature/shoulder.R/elbw.R/hand.R/hand.R_end
+        weight: 1
+      - path: Armature/spine
+        weight: 1
+      - path: Armature/spine/neck
+        weight: 1
+      - path: Armature/spine/neck/head
+        weight: 1
+      - path: Armature/spine/neck/head/head_end
+        weight: 1
+      - path: Armature/upperTail
+        weight: 1
+      - path: Armature/upperTail/lowerTail
+        weight: 1
+      - path: Armature/upperTail/lowerTail/lowerTail_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

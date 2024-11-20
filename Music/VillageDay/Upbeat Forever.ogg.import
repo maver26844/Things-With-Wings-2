@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c4ktdpdm5a2vi"
+path="res://.godot/imported/Upbeat Forever.ogg-c23268aebed7a60b48a4f677e4a480ba.oggvorbisstr"
+
+[deps]
+
+source_file="res://Music/VillageDay/Upbeat Forever.ogg"
+dest_files=["res://.godot/imported/Upbeat Forever.ogg-c23268aebed7a60b48a4f677e4a480ba.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://buq17odbpw7pd"
-path="res://.godot/imported/sprayPaintSFX.ogg-4d0d7bdb8a038b1eaa7ef5090f9044f0.oggvorbisstr"
+path="res://.godot/imported/sprayPaintSFX.ogg-0fb9594b0c1ff68bbcaf10efb99b2ad8.oggvorbisstr"
 
 [deps]
 
-source_file="res://SFX/sprayPaintSFX.ogg"
-dest_files=["res://.godot/imported/sprayPaintSFX.ogg-4d0d7bdb8a038b1eaa7ef5090f9044f0.oggvorbisstr"]
+source_file="res://Old Assets/SFX/sprayPaintSFX.ogg"
+dest_files=["res://.godot/imported/sprayPaintSFX.ogg-0fb9594b0c1ff68bbcaf10efb99b2ad8.oggvorbisstr"]
 
 [params]
 

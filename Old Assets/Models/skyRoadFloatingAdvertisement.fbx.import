@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bbdf5lbyu3fqy"
-path="res://.godot/imported/skyRoadFloatingAdvertisement.fbx-75acc210e6930ff5e48a15c89a06b0e0.scn"
+path="res://.godot/imported/skyRoadFloatingAdvertisement.fbx-0375be462216e955d6c6da353d6f937e.scn"
 
 [deps]
 
-source_file="res://Models/skyRoadFloatingAdvertisement.fbx"
-dest_files=["res://.godot/imported/skyRoadFloatingAdvertisement.fbx-75acc210e6930ff5e48a15c89a06b0e0.scn"]
+source_file="res://Old Assets/Models/skyRoadFloatingAdvertisement.fbx"
+dest_files=["res://.godot/imported/skyRoadFloatingAdvertisement.fbx-0375be462216e955d6c6da353d6f937e.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cih43l2esal6l"
-path="res://.godot/imported/flyingPigOfficer.png-6e0f1d64d4bacde1fec96913c248c841.ctex"
+path="res://.godot/imported/flyingPigOfficer.png-c74e4cd0fd7e041f4a35b6b307c16697.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/flyingPigOfficer.png"
-dest_files=["res://.godot/imported/flyingPigOfficer.png-6e0f1d64d4bacde1fec96913c248c841.ctex"]
+source_file="res://Old Assets/Textures/flyingPigOfficer.png"
+dest_files=["res://.godot/imported/flyingPigOfficer.png-c74e4cd0fd7e041f4a35b6b307c16697.ctex"]
 
 [params]
 

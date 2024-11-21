@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciflci5mncrse"
-path="res://.godot/imported/groundBGTexture 1.png-9cb07b5036a642544e80b54103084c4d.ctex"
+path="res://.godot/imported/groundBGTexture 1.png-b068776864f87b46140f5ff96463ecf2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/groundBGTexture 1.png"
-dest_files=["res://.godot/imported/groundBGTexture 1.png-9cb07b5036a642544e80b54103084c4d.ctex"]
+source_file="res://Old Assets/Textures/groundBGTexture 1.png"
+dest_files=["res://.godot/imported/groundBGTexture 1.png-b068776864f87b46140f5ff96463ecf2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6omv4u3loiia"
-path="res://.godot/imported/CartoonGrassHillSkybox_Left.bmp-d065f5e7e939a9244c6b3546505938ff.ctex"
+path="res://.godot/imported/CartoonGrassHillSkybox_Left.bmp-ff75c865e4465e8d273d4cb21065b874.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://CartoonSkyboxMegaPack/CartoonGrassHillSkybox/CartoonGrassHillSkybox_Left.bmp"
-dest_files=["res://.godot/imported/CartoonGrassHillSkybox_Left.bmp-d065f5e7e939a9244c6b3546505938ff.ctex"]
+source_file="res://Old Assets/CartoonSkyboxMegaPack/CartoonGrassHillSkybox/CartoonGrassHillSkybox_Left.bmp"
+dest_files=["res://.godot/imported/CartoonGrassHillSkybox_Left.bmp-ff75c865e4465e8d273d4cb21065b874.ctex"]
 
 [params]
 

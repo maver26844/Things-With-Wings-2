@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bgee1def40eyn"
-path="res://.godot/imported/Cut and Run.ogg-ba743bc7ee3f1611177a8530f8fafa16.oggvorbisstr"
+path="res://.godot/imported/Cut and Run.ogg-5e8839ec97f4bd6cb2828044781bcb50.oggvorbisstr"
 
 [deps]
 
-source_file="res://Music/VillageNight/Cut and Run.ogg"
-dest_files=["res://.godot/imported/Cut and Run.ogg-ba743bc7ee3f1611177a8530f8fafa16.oggvorbisstr"]
+source_file="res://Old Assets/Music/VillageNight/Cut and Run.ogg"
+dest_files=["res://.godot/imported/Cut and Run.ogg-5e8839ec97f4bd6cb2828044781bcb50.oggvorbisstr"]
 
 [params]
 

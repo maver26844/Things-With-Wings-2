@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dfwqsxgcyyc6d"
-path="res://.godot/imported/magical_energy_burst.wav-569fc823ade1224f47876ec42b59f8f4.sample"
+path="res://.godot/imported/magical_energy_burst.wav-847d40c422f8fba38967f7607006deb9.sample"
 
 [deps]
 
-source_file="res://SFX/magical_energy_burst.wav"
-dest_files=["res://.godot/imported/magical_energy_burst.wav-569fc823ade1224f47876ec42b59f8f4.sample"]
+source_file="res://Old Assets/SFX/magical_energy_burst.wav"
+dest_files=["res://.godot/imported/magical_energy_burst.wav-847d40c422f8fba38967f7607006deb9.sample"]
 
 [params]
 

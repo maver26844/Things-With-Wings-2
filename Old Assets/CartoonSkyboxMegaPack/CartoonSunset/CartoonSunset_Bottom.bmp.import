@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwulif0al61rt"
-path="res://.godot/imported/CartoonSunset_Bottom.bmp-90c6dd764869e9573af8070644210987.ctex"
+path="res://.godot/imported/CartoonSunset_Bottom.bmp-78639efff75a769b9868df7e0b86eb46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://CartoonSkyboxMegaPack/CartoonSunset/CartoonSunset_Bottom.bmp"
-dest_files=["res://.godot/imported/CartoonSunset_Bottom.bmp-90c6dd764869e9573af8070644210987.ctex"]
+source_file="res://Old Assets/CartoonSkyboxMegaPack/CartoonSunset/CartoonSunset_Bottom.bmp"
+dest_files=["res://.godot/imported/CartoonSunset_Bottom.bmp-78639efff75a769b9868df7e0b86eb46.ctex"]
 
 [params]
 

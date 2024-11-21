@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bkmwm4v0bchdn"
-path="res://.godot/imported/flyingPig.fbx-094094c028d00f5a53fb49a0e22af481.scn"
+path="res://.godot/imported/flyingPig.fbx-08b68ad30635437ab719976fada94209.scn"
 
 [deps]
 
-source_file="res://Models/Flyers/flyingPig.fbx"
-dest_files=["res://.godot/imported/flyingPig.fbx-094094c028d00f5a53fb49a0e22af481.scn"]
+source_file="res://Old Assets/Models/Flyers/flyingPig.fbx"
+dest_files=["res://.godot/imported/flyingPig.fbx-08b68ad30635437ab719976fada94209.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://m3nbdo24sjr"
-path="res://.godot/imported/treeTopLeavesUVTextureSpring3.png-b95544323339d8e082865f89a11d5cb2.ctex"
+path="res://.godot/imported/treeTopLeavesUVTextureSpring3.png-b285f422b6e7e3a2656cf2d36c6988d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/trees/treeTopLeavesUVTextureSpring3.png"
-dest_files=["res://.godot/imported/treeTopLeavesUVTextureSpring3.png-b95544323339d8e082865f89a11d5cb2.ctex"]
+source_file="res://Old Assets/Textures/trees/treeTopLeavesUVTextureSpring3.png"
+dest_files=["res://.godot/imported/treeTopLeavesUVTextureSpring3.png-b285f422b6e7e3a2656cf2d36c6988d7.ctex"]
 
 [params]
 

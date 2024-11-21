@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://l36uj6yw7cg"
-path="res://.godot/imported/Harmful or Fatal.ogg-d7ea28cf7ac63039f97aa5e692f1bb8b.oggvorbisstr"
+path="res://.godot/imported/Harmful or Fatal.ogg-1b8c391be806385fd21e061f521fba41.oggvorbisstr"
 
 [deps]
 
-source_file="res://Music/VillageNight/Harmful or Fatal.ogg"
-dest_files=["res://.godot/imported/Harmful or Fatal.ogg-d7ea28cf7ac63039f97aa5e692f1bb8b.oggvorbisstr"]
+source_file="res://Old Assets/Music/VillageNight/Harmful or Fatal.ogg"
+dest_files=["res://.godot/imported/Harmful or Fatal.ogg-1b8c391be806385fd21e061f521fba41.oggvorbisstr"]
 
 [params]
 

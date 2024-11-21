@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://k3lkdy051hlm"
-path="res://.godot/imported/boxFalling.wav-ac6562d3a3e2f9ae64a09c4278b263a1.sample"
+path="res://.godot/imported/boxFalling.wav-1857874c50fa16ebddd28a76adef1912.sample"
 
 [deps]
 
-source_file="res://SFX/boxFalling.wav"
-dest_files=["res://.godot/imported/boxFalling.wav-ac6562d3a3e2f9ae64a09c4278b263a1.sample"]
+source_file="res://Old Assets/SFX/boxFalling.wav"
+dest_files=["res://.godot/imported/boxFalling.wav-1857874c50fa16ebddd28a76adef1912.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b77en65wv8v0c"
-path="res://.godot/imported/magical_disapearance.wav-f64c933ba3ab1d56873a3a3fce21c75e.sample"
+path="res://.godot/imported/magical_disapearance.wav-325aa0dec1dd1682e1f69b0e02c86f80.sample"
 
 [deps]
 
-source_file="res://SFX/magical_disapearance.wav"
-dest_files=["res://.godot/imported/magical_disapearance.wav-f64c933ba3ab1d56873a3a3fce21c75e.sample"]
+source_file="res://Old Assets/SFX/magical_disapearance.wav"
+dest_files=["res://.godot/imported/magical_disapearance.wav-325aa0dec1dd1682e1f69b0e02c86f80.sample"]
 
 [params]
 

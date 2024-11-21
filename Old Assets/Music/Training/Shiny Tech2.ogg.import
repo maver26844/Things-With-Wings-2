@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bfnf2qhx26r80"
-path="res://.godot/imported/Shiny Tech2.ogg-8d8282cadabca7f3d8fd4901e77b1082.oggvorbisstr"
+path="res://.godot/imported/Shiny Tech2.ogg-fb9debd7922d7f7093d7728bb741e152.oggvorbisstr"
 
 [deps]
 
-source_file="res://Music/Training/Shiny Tech2.ogg"
-dest_files=["res://.godot/imported/Shiny Tech2.ogg-8d8282cadabca7f3d8fd4901e77b1082.oggvorbisstr"]
+source_file="res://Old Assets/Music/Training/Shiny Tech2.ogg"
+dest_files=["res://.godot/imported/Shiny Tech2.ogg-fb9debd7922d7f7093d7728bb741e152.oggvorbisstr"]
 
 [params]
 

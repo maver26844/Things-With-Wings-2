@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq07c82n8ji32"
-path="res://.godot/imported/hawkTexture1.png-a43201c0898c8165f1bc187e5febbd91.ctex"
+path="res://.godot/imported/hawkTexture1.png-033059469a2403890a39fceaa7c6ece2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/hawkTexture1.png"
-dest_files=["res://.godot/imported/hawkTexture1.png-a43201c0898c8165f1bc187e5febbd91.ctex"]
+source_file="res://Old Assets/Textures/hawkTexture1.png"
+dest_files=["res://.godot/imported/hawkTexture1.png-033059469a2403890a39fceaa7c6ece2.ctex"]
 
 [params]
 

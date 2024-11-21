@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cuet24kusoigi"
-path="res://.godot/imported/Ether Disco.ogg-550e7dc7131b757aa9d486030dfe84e7.oggvorbisstr"
+path="res://.godot/imported/Ether Disco.ogg-7f625382ba27ab9f9fdd853ef2efd4a4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Music/VillageDay/Ether Disco.ogg"
-dest_files=["res://.godot/imported/Ether Disco.ogg-550e7dc7131b757aa9d486030dfe84e7.oggvorbisstr"]
+source_file="res://Old Assets/Music/VillageDay/Ether Disco.ogg"
+dest_files=["res://.godot/imported/Ether Disco.ogg-7f625382ba27ab9f9fdd853ef2efd4a4.oggvorbisstr"]
 
 [params]
 

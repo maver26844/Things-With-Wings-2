@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hgi2kduaywdv"
-path="res://.godot/imported/femaleBullet.png-7ba517ca1791c40dd550b2b9880753ae.ctex"
+path="res://.godot/imported/femaleBullet.png-f19a29efb2ddbd29f744748a3cf6fbeb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/femaleBullet.png"
-dest_files=["res://.godot/imported/femaleBullet.png-7ba517ca1791c40dd550b2b9880753ae.ctex"]
+source_file="res://Old Assets/Textures/femaleBullet.png"
+dest_files=["res://.godot/imported/femaleBullet.png-f19a29efb2ddbd29f744748a3cf6fbeb.ctex"]
 
 [params]
 

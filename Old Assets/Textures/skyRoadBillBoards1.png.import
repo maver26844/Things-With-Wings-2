@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuato75852yki"
-path="res://.godot/imported/skyRoadBillBoards1.png-20c9efa7fbbb6f95c52a9bb75d28a8c8.ctex"
+path="res://.godot/imported/skyRoadBillBoards1.png-5cc7de6cbbd3e18da843b335cb40b735.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/skyRoadBillBoards1.png"
-dest_files=["res://.godot/imported/skyRoadBillBoards1.png-20c9efa7fbbb6f95c52a9bb75d28a8c8.ctex"]
+source_file="res://Old Assets/Textures/skyRoadBillBoards1.png"
+dest_files=["res://.godot/imported/skyRoadBillBoards1.png-5cc7de6cbbd3e18da843b335cb40b735.ctex"]
 
 [params]
 

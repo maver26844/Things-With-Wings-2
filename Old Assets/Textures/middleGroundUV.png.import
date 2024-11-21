@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hhkg0pagw870"
-path="res://.godot/imported/middleGroundUV.png-5d376204fe8d1ee997b46b82cad7b558.ctex"
+path="res://.godot/imported/middleGroundUV.png-efa96e0c35b9a22a75921c625c67a002.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/middleGroundUV.png"
-dest_files=["res://.godot/imported/middleGroundUV.png-5d376204fe8d1ee997b46b82cad7b558.ctex"]
+source_file="res://Old Assets/Textures/middleGroundUV.png"
+dest_files=["res://.godot/imported/middleGroundUV.png-efa96e0c35b9a22a75921c625c67a002.ctex"]
 
 [params]
 

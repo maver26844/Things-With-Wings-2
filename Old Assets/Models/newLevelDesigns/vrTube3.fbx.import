@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://gdnvqremmogp"
-path="res://.godot/imported/vrTube3.fbx-af19c927114683197b0b650b8f106290.scn"
+path="res://.godot/imported/vrTube3.fbx-c7630053936f034d778f4964167f3133.scn"
 
 [deps]
 
-source_file="res://Models/newLevelDesigns/vrTube3.fbx"
-dest_files=["res://.godot/imported/vrTube3.fbx-af19c927114683197b0b650b8f106290.scn"]
+source_file="res://Old Assets/Models/newLevelDesigns/vrTube3.fbx"
+dest_files=["res://.godot/imported/vrTube3.fbx-c7630053936f034d778f4964167f3133.scn"]
 
 [params]
 

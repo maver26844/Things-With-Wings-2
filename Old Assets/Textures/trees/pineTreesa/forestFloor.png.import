@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ceghyvoocb26p"
-path="res://.godot/imported/forestFloor.png-4a4b640437014253c0fd80f47fa052c8.ctex"
+path="res://.godot/imported/forestFloor.png-2eac6bc09ed1ef3d7747344b298b4532.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/trees/pineTreesa/forestFloor.png"
-dest_files=["res://.godot/imported/forestFloor.png-4a4b640437014253c0fd80f47fa052c8.ctex"]
+source_file="res://Old Assets/Textures/trees/pineTreesa/forestFloor.png"
+dest_files=["res://.godot/imported/forestFloor.png-2eac6bc09ed1ef3d7747344b298b4532.ctex"]
 
 [params]
 

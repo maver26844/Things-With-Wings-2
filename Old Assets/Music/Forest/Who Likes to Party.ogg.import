@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://pqe2b7alayve"
-path="res://.godot/imported/Who Likes to Party.ogg-ac3a31b0ee23ef20f25fcb89d30970cc.oggvorbisstr"
+path="res://.godot/imported/Who Likes to Party.ogg-a64b933565da617ad988e8e67535ac89.oggvorbisstr"
 
 [deps]
 
-source_file="res://Music/Forest/Who Likes to Party.ogg"
-dest_files=["res://.godot/imported/Who Likes to Party.ogg-ac3a31b0ee23ef20f25fcb89d30970cc.oggvorbisstr"]
+source_file="res://Old Assets/Music/Forest/Who Likes to Party.ogg"
+dest_files=["res://.godot/imported/Who Likes to Party.ogg-a64b933565da617ad988e8e67535ac89.oggvorbisstr"]
 
 [params]
 

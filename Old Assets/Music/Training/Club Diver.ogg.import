@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://18dn2duag4dn"
-path="res://.godot/imported/Club Diver.ogg-919f60dcf1024a2d53a2e4b17a346a4b.oggvorbisstr"
+path="res://.godot/imported/Club Diver.ogg-86adacefcc3656622a216d2a432d52c5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Music/Training/Club Diver.ogg"
-dest_files=["res://.godot/imported/Club Diver.ogg-919f60dcf1024a2d53a2e4b17a346a4b.oggvorbisstr"]
+source_file="res://Old Assets/Music/Training/Club Diver.ogg"
+dest_files=["res://.godot/imported/Club Diver.ogg-86adacefcc3656622a216d2a432d52c5.oggvorbisstr"]
 
 [params]
 

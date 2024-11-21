@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpsqsmlstu863"
-path="res://.godot/imported/WarBiplaneTWW.png-d81acb9cc7fc29fd36b9cc0cc3a1a33b.ctex"
+path="res://.godot/imported/WarBiplaneTWW.png-7eab09d58aad8387273178c16494c6be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/WarBiplaneTWW.png"
-dest_files=["res://.godot/imported/WarBiplaneTWW.png-d81acb9cc7fc29fd36b9cc0cc3a1a33b.ctex"]
+source_file="res://Old Assets/Textures/WarBiplaneTWW.png"
+dest_files=["res://.godot/imported/WarBiplaneTWW.png-7eab09d58aad8387273178c16494c6be.ctex"]
 
 [params]
 

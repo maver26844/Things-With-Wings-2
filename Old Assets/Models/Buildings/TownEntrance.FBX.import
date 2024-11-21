@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddws4gabtytud"
-path="res://.godot/imported/TownEntrance.FBX-6d718b9f3cb6043981ad689cc39419dc.scn"
+path="res://.godot/imported/TownEntrance.FBX-84d178a424a3320e8d26e3dfcd60f66a.scn"
 
 [deps]
 
-source_file="res://Models/Buildings/TownEntrance.FBX"
-dest_files=["res://.godot/imported/TownEntrance.FBX-6d718b9f3cb6043981ad689cc39419dc.scn"]
+source_file="res://Old Assets/Models/Buildings/TownEntrance.FBX"
+dest_files=["res://.godot/imported/TownEntrance.FBX-84d178a424a3320e8d26e3dfcd60f66a.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8t6xgwhxquxh"
-path="res://.godot/imported/CartoonSpace_Bottom.bmp-ca05590de72c12decc573438960aebd1.ctex"
+path="res://.godot/imported/CartoonSpace_Bottom.bmp-59eb8478140bc84f870a4b5848a37fdf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://CartoonSkyboxMegaPack/CartoonSpaceSkybox/CartoonSpace_Bottom.bmp"
-dest_files=["res://.godot/imported/CartoonSpace_Bottom.bmp-ca05590de72c12decc573438960aebd1.ctex"]
+source_file="res://Old Assets/CartoonSkyboxMegaPack/CartoonSpaceSkybox/CartoonSpace_Bottom.bmp"
+dest_files=["res://.godot/imported/CartoonSpace_Bottom.bmp-59eb8478140bc84f870a4b5848a37fdf.ctex"]
 
 [params]
 

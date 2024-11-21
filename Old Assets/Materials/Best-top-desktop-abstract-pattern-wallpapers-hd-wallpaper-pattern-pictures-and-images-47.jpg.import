@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwrkbrroorbjj"
-path.s3tc="res://.godot/imported/Best-top-desktop-abstract-pattern-wallpapers-hd-wallpaper-pattern-pictures-and-images-47.jpg-10c36a4503ea6204dec909601705179f.s3tc.ctex"
+path.s3tc="res://.godot/imported/Best-top-desktop-abstract-pattern-wallpapers-hd-wallpaper-pattern-pictures-and-images-47.jpg-2602d88dd9aa37e0b03e6e24ae8318cf.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Materials/Best-top-desktop-abstract-pattern-wallpapers-hd-wallpaper-pattern-pictures-and-images-47.jpg"
-dest_files=["res://.godot/imported/Best-top-desktop-abstract-pattern-wallpapers-hd-wallpaper-pattern-pictures-and-images-47.jpg-10c36a4503ea6204dec909601705179f.s3tc.ctex"]
+source_file="res://Old Assets/Materials/Best-top-desktop-abstract-pattern-wallpapers-hd-wallpaper-pattern-pictures-and-images-47.jpg"
+dest_files=["res://.godot/imported/Best-top-desktop-abstract-pattern-wallpapers-hd-wallpaper-pattern-pictures-and-images-47.jpg-2602d88dd9aa37e0b03e6e24ae8318cf.s3tc.ctex"]
 
 [params]
 

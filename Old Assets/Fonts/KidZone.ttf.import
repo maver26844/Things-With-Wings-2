@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://c17oowqlx0jmy"
-path="res://.godot/imported/KidZone.ttf-de7683a8343a0b1a96facba68472e196.fontdata"
+path="res://.godot/imported/KidZone.ttf-822cc076487f22245e6a0ef09689e505.fontdata"
 
 [deps]
 
-source_file="res://Fonts/KidZone.ttf"
-dest_files=["res://.godot/imported/KidZone.ttf-de7683a8343a0b1a96facba68472e196.fontdata"]
+source_file="res://Old Assets/Fonts/KidZone.ttf"
+dest_files=["res://.godot/imported/KidZone.ttf-822cc076487f22245e6a0ef09689e505.fontdata"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d3bangnsh8ii5"
-path="res://.godot/imported/asteroid1.fbx-81ff77270091674340b15db61810e6e7.scn"
+path="res://.godot/imported/asteroid1.fbx-c959fe6e8cde46c915008fd03676b46a.scn"
 
 [deps]
 
-source_file="res://Models/asteroid1.fbx"
-dest_files=["res://.godot/imported/asteroid1.fbx-81ff77270091674340b15db61810e6e7.scn"]
+source_file="res://Old Assets/Models/asteroid1.fbx"
+dest_files=["res://.godot/imported/asteroid1.fbx-c959fe6e8cde46c915008fd03676b46a.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dux7bwd77pnbw"
-path="res://.godot/imported/houseWithGarageblendUVTexture.png-cea7905a7161317388f42021d23d737e.ctex"
+path="res://.godot/imported/houseWithGarageblendUVTexture.png-c92f71d0249b21f68fb0e216638f1f5d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/houseWithGarageblendUVTexture.png"
-dest_files=["res://.godot/imported/houseWithGarageblendUVTexture.png-cea7905a7161317388f42021d23d737e.ctex"]
+source_file="res://Old Assets/Textures/houseWithGarageblendUVTexture.png"
+dest_files=["res://.godot/imported/houseWithGarageblendUVTexture.png-c92f71d0249b21f68fb0e216638f1f5d.ctex"]
 
 [params]
 

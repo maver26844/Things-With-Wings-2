@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://banuqnaiahlmk"
-path="res://.godot/imported/impactWrenchSFX.ogg-05bb9dca6f261276872c00e18b0ff794.oggvorbisstr"
+path="res://.godot/imported/impactWrenchSFX.ogg-a97049554de5334318e4755ef2dcaa09.oggvorbisstr"
 
 [deps]
 
-source_file="res://SFX/impactWrenchSFX.ogg"
-dest_files=["res://.godot/imported/impactWrenchSFX.ogg-05bb9dca6f261276872c00e18b0ff794.oggvorbisstr"]
+source_file="res://Old Assets/SFX/impactWrenchSFX.ogg"
+dest_files=["res://.godot/imported/impactWrenchSFX.ogg-a97049554de5334318e4755ef2dcaa09.oggvorbisstr"]
 
 [params]
 

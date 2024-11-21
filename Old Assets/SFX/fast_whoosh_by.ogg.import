@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://uiecfxq1hsd6"
-path="res://.godot/imported/fast_whoosh_by.ogg-ee9826ea9a557c52ad2f9666936b0668.oggvorbisstr"
+path="res://.godot/imported/fast_whoosh_by.ogg-28cf81e7e46c2ce9d65904f301fbf71f.oggvorbisstr"
 
 [deps]
 
-source_file="res://SFX/fast_whoosh_by.ogg"
-dest_files=["res://.godot/imported/fast_whoosh_by.ogg-ee9826ea9a557c52ad2f9666936b0668.oggvorbisstr"]
+source_file="res://Old Assets/SFX/fast_whoosh_by.ogg"
+dest_files=["res://.godot/imported/fast_whoosh_by.ogg-28cf81e7e46c2ce9d65904f301fbf71f.oggvorbisstr"]
 
 [params]
 

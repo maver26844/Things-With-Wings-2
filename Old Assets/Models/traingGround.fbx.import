@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://btidbyibkob6a"
-path="res://.godot/imported/traingGround.fbx-3a9a6c2b1c95948d29c2376e2bdd0612.scn"
+path="res://.godot/imported/traingGround.fbx-2bf7a67b1d975c6c9c105e592c91748a.scn"
 
 [deps]
 
-source_file="res://Models/traingGround.fbx"
-dest_files=["res://.godot/imported/traingGround.fbx-3a9a6c2b1c95948d29c2376e2bdd0612.scn"]
+source_file="res://Old Assets/Models/traingGround.fbx"
+dest_files=["res://.godot/imported/traingGround.fbx-2bf7a67b1d975c6c9c105e592c91748a.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnmvvylcmjvvq"
-path="res://.godot/imported/skyRoadLevelSelect.png-2504559dba142c04d9038ff4f673d39f.ctex"
+path="res://.godot/imported/skyRoadLevelSelect.png-0cbffd65de6941074991caab7a23c073.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/skyRoadLevelSelect.png"
-dest_files=["res://.godot/imported/skyRoadLevelSelect.png-2504559dba142c04d9038ff4f673d39f.ctex"]
+source_file="res://Old Assets/Textures/skyRoadLevelSelect.png"
+dest_files=["res://.godot/imported/skyRoadLevelSelect.png-0cbffd65de6941074991caab7a23c073.ctex"]
 
 [params]
 

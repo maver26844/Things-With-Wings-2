@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwcqyu68bn63r"
-path="res://.godot/imported/spaceLevelSelect.png-3e89440a23edf19ebb898b296279cb63.ctex"
+path="res://.godot/imported/spaceLevelSelect.png-08a82ea9e4f0d88548de275982272870.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Materials/LevelSelect/spaceLevelSelect.png"
-dest_files=["res://.godot/imported/spaceLevelSelect.png-3e89440a23edf19ebb898b296279cb63.ctex"]
+source_file="res://Old Assets/Materials/LevelSelect/spaceLevelSelect.png"
+dest_files=["res://.godot/imported/spaceLevelSelect.png-08a82ea9e4f0d88548de275982272870.ctex"]
 
 [params]
 

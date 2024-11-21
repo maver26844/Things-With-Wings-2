@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rwwn6e655ilg"
-path="res://.godot/imported/pineTreeTrunkTex.png-5f2b1e080dedfdefd9b836171acec2cf.ctex"
+path="res://.godot/imported/pineTreeTrunkTex.png-6a738c46869e393e6dd0f47dee6220e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/trees/pineTreesa/pineTreeTrunkTex.png"
-dest_files=["res://.godot/imported/pineTreeTrunkTex.png-5f2b1e080dedfdefd9b836171acec2cf.ctex"]
+source_file="res://Old Assets/Textures/trees/pineTreesa/pineTreeTrunkTex.png"
+dest_files=["res://.godot/imported/pineTreeTrunkTex.png-6a738c46869e393e6dd0f47dee6220e1.ctex"]
 
 [params]
 

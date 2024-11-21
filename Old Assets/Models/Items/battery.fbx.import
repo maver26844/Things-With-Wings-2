@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c2a1bcf2ghlb0"
-path="res://.godot/imported/battery.fbx-03972434576ccdd58a2ee95a39ca2852.scn"
+path="res://.godot/imported/battery.fbx-f8328dc229bc55399f487cfc1b90106e.scn"
 
 [deps]
 
-source_file="res://Models/Items/battery.fbx"
-dest_files=["res://.godot/imported/battery.fbx-03972434576ccdd58a2ee95a39ca2852.scn"]
+source_file="res://Old Assets/Models/Items/battery.fbx"
+dest_files=["res://.godot/imported/battery.fbx-f8328dc229bc55399f487cfc1b90106e.scn"]
 
 [params]
 

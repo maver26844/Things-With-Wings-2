@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpfsn1to0ooy4"
-path.s3tc="res://.godot/imported/simpleHouse.png-bb78209432dd40a99b4f1f8389064e88.s3tc.ctex"
+path.s3tc="res://.godot/imported/simpleHouse.png-c0b26be8630d52c16af39fd87ffef3c6.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Textures/simpleHouse.png"
-dest_files=["res://.godot/imported/simpleHouse.png-bb78209432dd40a99b4f1f8389064e88.s3tc.ctex"]
+source_file="res://Old Assets/Textures/simpleHouse.png"
+dest_files=["res://.godot/imported/simpleHouse.png-c0b26be8630d52c16af39fd87ffef3c6.s3tc.ctex"]
 
 [params]
 

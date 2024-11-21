@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cn8ah76rmb713"
-path="res://.godot/imported/sprayPaintSFX.wav-6f013c18dfa226cc5f83bdbdf027a93b.sample"
+path="res://.godot/imported/sprayPaintSFX.wav-2fd7dccda13b169264878f612b0d3727.sample"
 
 [deps]
 
-source_file="res://SFX/sprayPaintSFX.wav"
-dest_files=["res://.godot/imported/sprayPaintSFX.wav-6f013c18dfa226cc5f83bdbdf027a93b.sample"]
+source_file="res://Old Assets/SFX/sprayPaintSFX.wav"
+dest_files=["res://.godot/imported/sprayPaintSFX.wav-2fd7dccda13b169264878f612b0d3727.sample"]
 
 [params]
 

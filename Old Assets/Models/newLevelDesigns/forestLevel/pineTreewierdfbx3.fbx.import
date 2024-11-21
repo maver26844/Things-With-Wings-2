@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://0gv3yp7bys7v"
-path="res://.godot/imported/pineTreewierdfbx3.fbx-4ebb24feca43b5693a1438e42b43e029.scn"
+path="res://.godot/imported/pineTreewierdfbx3.fbx-ea4eae2985349953670cdd476a2a0c75.scn"
 
 [deps]
 
-source_file="res://Models/newLevelDesigns/forestLevel/pineTreewierdfbx3.fbx"
-dest_files=["res://.godot/imported/pineTreewierdfbx3.fbx-4ebb24feca43b5693a1438e42b43e029.scn"]
+source_file="res://Old Assets/Models/newLevelDesigns/forestLevel/pineTreewierdfbx3.fbx"
+dest_files=["res://.godot/imported/pineTreewierdfbx3.fbx-ea4eae2985349953670cdd476a2a0c75.scn"]
 
 [params]
 

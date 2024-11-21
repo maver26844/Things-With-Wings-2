@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b430omat11rn8"
-path.s3tc="res://.godot/imported/flyingPig.png-b91cab47d200533ed07e4b76c63ce9dd.s3tc.ctex"
+path.s3tc="res://.godot/imported/flyingPig.png-a3c599fd24d733d6a76e3a5681bbe0d5.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Textures/flyingPig.png"
-dest_files=["res://.godot/imported/flyingPig.png-b91cab47d200533ed07e4b76c63ce9dd.s3tc.ctex"]
+source_file="res://Old Assets/Textures/flyingPig.png"
+dest_files=["res://.godot/imported/flyingPig.png-a3c599fd24d733d6a76e3a5681bbe0d5.s3tc.ctex"]
 
 [params]
 

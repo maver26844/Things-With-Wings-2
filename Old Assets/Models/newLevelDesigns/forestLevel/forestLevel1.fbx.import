@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cigwe466nuogi"
-path="res://.godot/imported/forestLevel1.fbx-29029ba4128d19d044b4c12fcde77ee5.scn"
+path="res://.godot/imported/forestLevel1.fbx-0ceacbd76b205c99ad1dea2c8e8dda0c.scn"
 
 [deps]
 
-source_file="res://Models/newLevelDesigns/forestLevel/forestLevel1.fbx"
-dest_files=["res://.godot/imported/forestLevel1.fbx-29029ba4128d19d044b4c12fcde77ee5.scn"]
+source_file="res://Old Assets/Models/newLevelDesigns/forestLevel/forestLevel1.fbx"
+dest_files=["res://.godot/imported/forestLevel1.fbx-0ceacbd76b205c99ad1dea2c8e8dda0c.scn"]
 
 [params]
 

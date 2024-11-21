@@ -1,8 +1,31 @@
-[gd_scene load_steps=2 format=3 uid="uid://c3u60a4o0gv86"]
+[gd_scene load_steps=5 format=3 uid="uid://c3u60a4o0gv86"]
 
-[ext_resource type="PackedScene" uid="uid://bkmwm4v0bchdn" path="res://Models/Flyers/flyingPig.fbx" id="1_sd13p"]
+[ext_resource type="PackedScene" uid="uid://depjso2kxqyae" path="res://Flyers/chicken.tscn" id="1_2iolu"]
+[ext_resource type="PackedScene" uid="uid://dyuknhngpvlam" path="res://Items/coin.tscn" id="2_lhyfq"]
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_ftc47"]
+size = Vector2(50, 50)
+
+[sub_resource type="WorldBoundaryShape3D" id="WorldBoundaryShape3D_lj08m"]
 
 [node name="Debug" type="Node3D"]
 
-[node name="flyingPig" parent="." instance=ExtResource("1_sd13p")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.113808, -0.0891261, 0.00252694)
+[node name="chicken" parent="." instance=ExtResource("1_2iolu")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4, 0)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 20.865, 0)
+
+[node name="Floor" type="Node3D" parent="."]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Floor"]
+mesh = SubResource("PlaneMesh_ftc47")
+skeleton = NodePath("../..")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="Floor"]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Floor/StaticBody3D"]
+shape = SubResource("WorldBoundaryShape3D_lj08m")
+
+[node name="coin" parent="." instance=ExtResource("2_lhyfq")]
+transform = Transform3D(100, 0, 0, 0, 100, 0, 0, 0, 100, 0, 3, 5)

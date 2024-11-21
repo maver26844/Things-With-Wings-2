@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw6w48uww3ilp"
-path="res://.godot/imported/toonyDay01_Up.bmp-6d56404b76071e0be3bb71c272c3d638.ctex"
+path="res://.godot/imported/toonyDay01_Up.bmp-427e5c49e1374f68ac4fea55ac0deb6a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://CartoonSkyboxMegaPack/CartoonSkybox2/toonyDay01_Up.bmp"
-dest_files=["res://.godot/imported/toonyDay01_Up.bmp-6d56404b76071e0be3bb71c272c3d638.ctex"]
+source_file="res://Old Assets/CartoonSkyboxMegaPack/CartoonSkybox2/toonyDay01_Up.bmp"
+dest_files=["res://.godot/imported/toonyDay01_Up.bmp-427e5c49e1374f68ac4fea55ac0deb6a.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://rf57pam8kwqm"
-path="res://.godot/imported/Disco Medusae.ogg-be538b8c49f602cb259823e1209c3894.oggvorbisstr"
+path="res://.godot/imported/Disco Medusae.ogg-a67db2f77c26e735e656c181652ed49a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Music/Forest/Disco Medusae.ogg"
-dest_files=["res://.godot/imported/Disco Medusae.ogg-be538b8c49f602cb259823e1209c3894.oggvorbisstr"]
+source_file="res://Old Assets/Music/Forest/Disco Medusae.ogg"
+dest_files=["res://.godot/imported/Disco Medusae.ogg-a67db2f77c26e735e656c181652ed49a.oggvorbisstr"]
 
 [params]
 

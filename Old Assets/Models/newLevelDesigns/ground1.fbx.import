@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dqyuduyo087u7"
-path="res://.godot/imported/ground1.fbx-30f4884a82cd2e1678d9cf507057aad1.scn"
+path="res://.godot/imported/ground1.fbx-8a9e5d6b781825a3bc77332995fdd259.scn"
 
 [deps]
 
-source_file="res://Models/newLevelDesigns/ground1.fbx"
-dest_files=["res://.godot/imported/ground1.fbx-30f4884a82cd2e1678d9cf507057aad1.scn"]
+source_file="res://Old Assets/Models/newLevelDesigns/ground1.fbx"
+dest_files=["res://.godot/imported/ground1.fbx-8a9e5d6b781825a3bc77332995fdd259.scn"]
 
 [params]
 

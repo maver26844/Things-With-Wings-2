@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dgyv2t14eaftu"
-path="res://.godot/imported/coinPickup.ogg-a61cf28e6c56fb15b744a803af538f81.oggvorbisstr"
+path="res://.godot/imported/coinPickup.ogg-e8878b90feacf967bdc88a32063832d3.oggvorbisstr"
 
 [deps]
 
-source_file="res://SFX/coinPickup.ogg"
-dest_files=["res://.godot/imported/coinPickup.ogg-a61cf28e6c56fb15b744a803af538f81.oggvorbisstr"]
+source_file="res://Old Assets/SFX/coinPickup.ogg"
+dest_files=["res://.godot/imported/coinPickup.ogg-e8878b90feacf967bdc88a32063832d3.oggvorbisstr"]
 
 [params]
 

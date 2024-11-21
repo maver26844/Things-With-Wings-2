@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://m5uxkp00p4li"
-path="res://.godot/imported/magical_energy_burst.ogg-9d44bedaf68cd616f6b191dc969e7666.oggvorbisstr"
+path="res://.godot/imported/magical_energy_burst.ogg-befc52215732bc04bc98d0f31e2af0f6.oggvorbisstr"
 
 [deps]
 
-source_file="res://SFX/magical_energy_burst.ogg"
-dest_files=["res://.godot/imported/magical_energy_burst.ogg-9d44bedaf68cd616f6b191dc969e7666.oggvorbisstr"]
+source_file="res://Old Assets/SFX/magical_energy_burst.ogg"
+dest_files=["res://.godot/imported/magical_energy_burst.ogg-befc52215732bc04bc98d0f31e2af0f6.oggvorbisstr"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://m3gbup1qd3nk"
-path="res://.godot/imported/simpleHouse2.fbx-4a27161ef92933dbcc67f0ea33205124.scn"
+path="res://.godot/imported/simpleHouse2.fbx-9e51c540f5cba20e1a1f5d0ca950faf8.scn"
 
 [deps]
 
-source_file="res://Models/Buildings/simpleHouse2.fbx"
-dest_files=["res://.godot/imported/simpleHouse2.fbx-4a27161ef92933dbcc67f0ea33205124.scn"]
+source_file="res://Old Assets/Models/Buildings/simpleHouse2.fbx"
+dest_files=["res://.godot/imported/simpleHouse2.fbx-9e51c540f5cba20e1a1f5d0ca950faf8.scn"]
 
 [params]
 

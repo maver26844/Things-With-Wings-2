@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://clubd0k77t8pj"
-path="res://.godot/imported/Bird1.fbx-1339d5bcf42b77e3d3fbabf959e1ef06.scn"
+path="res://.godot/imported/Bird1.fbx-4f86ff23e6a093f1b4d9e95d80346c60.scn"
 
 [deps]
 
-source_file="res://Models/Flyers/Bird1.fbx"
-dest_files=["res://.godot/imported/Bird1.fbx-1339d5bcf42b77e3d3fbabf959e1ef06.scn"]
+source_file="res://Old Assets/Models/Flyers/Bird1.fbx"
+dest_files=["res://.godot/imported/Bird1.fbx-4f86ff23e6a093f1b4d9e95d80346c60.scn"]
 
 [params]
 

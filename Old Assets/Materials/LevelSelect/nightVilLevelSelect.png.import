@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dd15dm5g8js61"
-path="res://.godot/imported/nightVilLevelSelect.png-692f87fea8de735c80ee7a2a8b4b2c28.ctex"
+path="res://.godot/imported/nightVilLevelSelect.png-dd7acb77d8df1af29fd3420f6f72a03a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Materials/LevelSelect/nightVilLevelSelect.png"
-dest_files=["res://.godot/imported/nightVilLevelSelect.png-692f87fea8de735c80ee7a2a8b4b2c28.ctex"]
+source_file="res://Old Assets/Materials/LevelSelect/nightVilLevelSelect.png"
+dest_files=["res://.godot/imported/nightVilLevelSelect.png-dd7acb77d8df1af29fd3420f6f72a03a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkvet2e3ug7rs"
-path="res://.godot/imported/parkLevelSelect.png-8b9da8962ad916693452af91df7232b6.ctex"
+path="res://.godot/imported/parkLevelSelect.png-064f2434322ea94682eb91b73d9cae55.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/parkLevelSelect.png"
-dest_files=["res://.godot/imported/parkLevelSelect.png-8b9da8962ad916693452af91df7232b6.ctex"]
+source_file="res://Old Assets/Textures/parkLevelSelect.png"
+dest_files=["res://.godot/imported/parkLevelSelect.png-064f2434322ea94682eb91b73d9cae55.ctex"]
 
 [params]
 

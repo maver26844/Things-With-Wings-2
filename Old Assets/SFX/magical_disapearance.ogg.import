@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhshjupn28t3m"
-path="res://.godot/imported/magical_disapearance.ogg-95dbd1398477ec147f7e59ae148fd465.oggvorbisstr"
+path="res://.godot/imported/magical_disapearance.ogg-e45e1787bb46490e35936fffcb666645.oggvorbisstr"
 
 [deps]
 
-source_file="res://SFX/magical_disapearance.ogg"
-dest_files=["res://.godot/imported/magical_disapearance.ogg-95dbd1398477ec147f7e59ae148fd465.oggvorbisstr"]
+source_file="res://Old Assets/SFX/magical_disapearance.ogg"
+dest_files=["res://.godot/imported/magical_disapearance.ogg-e45e1787bb46490e35936fffcb666645.oggvorbisstr"]
 
 [params]
 

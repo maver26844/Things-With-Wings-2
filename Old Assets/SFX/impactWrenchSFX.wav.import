@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dpb37chkiw1mx"
-path="res://.godot/imported/impactWrenchSFX.wav-fa48288dcd03befdc2dd8d3ecb600d39.sample"
+path="res://.godot/imported/impactWrenchSFX.wav-b3fd4f1d7e65a04351dc1cd0576d3b4b.sample"
 
 [deps]
 
-source_file="res://SFX/impactWrenchSFX.wav"
-dest_files=["res://.godot/imported/impactWrenchSFX.wav-fa48288dcd03befdc2dd8d3ecb600d39.sample"]
+source_file="res://Old Assets/SFX/impactWrenchSFX.wav"
+dest_files=["res://.godot/imported/impactWrenchSFX.wav-b3fd4f1d7e65a04351dc1cd0576d3b4b.sample"]
 
 [params]
 

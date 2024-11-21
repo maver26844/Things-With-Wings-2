@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwxaedf8c05do"
-path="res://.godot/imported/thingsWithWingsTitle.png-0766ac06744897dd7b892143004a9099.ctex"
+path="res://.godot/imported/thingsWithWingsTitle.png-a5cfe2321239b8f86a7929c60c3b0338.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/thingsWithWingsTitle.png"
-dest_files=["res://.godot/imported/thingsWithWingsTitle.png-0766ac06744897dd7b892143004a9099.ctex"]
+source_file="res://Old Assets/Textures/thingsWithWingsTitle.png"
+dest_files=["res://.godot/imported/thingsWithWingsTitle.png-a5cfe2321239b8f86a7929c60c3b0338.ctex"]
 
 [params]
 

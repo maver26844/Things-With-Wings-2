@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bys8r2um76utx"
-path="res://.godot/imported/CartoonSkyboxNight01.png-42ead9f4f9d0fb5309c63333189a8e1c.ctex"
+path="res://.godot/imported/CartoonSkyboxNight01.png-f1e23667562a67d9df588a36dfc03a98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://CartoonSkyboxMegaPack/CartoonSkyboxNight/CartoonSkyboxNight01.png"
-dest_files=["res://.godot/imported/CartoonSkyboxNight01.png-42ead9f4f9d0fb5309c63333189a8e1c.ctex"]
+source_file="res://Old Assets/CartoonSkyboxMegaPack/CartoonSkyboxNight/CartoonSkyboxNight01.png"
+dest_files=["res://.godot/imported/CartoonSkyboxNight01.png-f1e23667562a67d9df588a36dfc03a98.ctex"]
 
 [params]
 

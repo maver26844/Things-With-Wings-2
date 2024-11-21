@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fv4ximvllv4g"
-path="res://.godot/imported/powerMeter2.png-791c72efd235cfd44acea6c7abdb218a.ctex"
+path="res://.godot/imported/powerMeter2.png-3c3b2a31221f1a584f7b5bb9d6e431c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/powerMeter/powerMeter2.png"
-dest_files=["res://.godot/imported/powerMeter2.png-791c72efd235cfd44acea6c7abdb218a.ctex"]
+source_file="res://Old Assets/Textures/powerMeter/powerMeter2.png"
+dest_files=["res://.godot/imported/powerMeter2.png-3c3b2a31221f1a584f7b5bb9d6e431c3.ctex"]
 
 [params]
 

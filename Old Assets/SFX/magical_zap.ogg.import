@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d03pyuhnv0yd7"
-path="res://.godot/imported/magical_zap.ogg-995b6f27921f6fea58da1be1474468ba.oggvorbisstr"
+path="res://.godot/imported/magical_zap.ogg-f0e007b86d7191fc9ade6244320f071e.oggvorbisstr"
 
 [deps]
 
-source_file="res://SFX/magical_zap.ogg"
-dest_files=["res://.godot/imported/magical_zap.ogg-995b6f27921f6fea58da1be1474468ba.oggvorbisstr"]
+source_file="res://Old Assets/SFX/magical_zap.ogg"
+dest_files=["res://.godot/imported/magical_zap.ogg-f0e007b86d7191fc9ade6244320f071e.oggvorbisstr"]
 
 [params]
 

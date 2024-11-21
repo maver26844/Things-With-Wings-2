@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dhs0jr5lwixc4"
-path="res://.godot/imported/magical_zap.wav-505abfa588518c73ed0e1b93ee750e40.sample"
+path="res://.godot/imported/magical_zap.wav-e3a6c8dcfb3559e2fc33fda10639837b.sample"
 
 [deps]
 
-source_file="res://SFX/magical_zap.wav"
-dest_files=["res://.godot/imported/magical_zap.wav-505abfa588518c73ed0e1b93ee750e40.sample"]
+source_file="res://Old Assets/SFX/magical_zap.wav"
+dest_files=["res://.godot/imported/magical_zap.wav-e3a6c8dcfb3559e2fc33fda10639837b.sample"]
 
 [params]
 

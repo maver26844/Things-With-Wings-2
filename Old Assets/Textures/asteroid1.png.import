@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qlec6855wc74"
-path="res://.godot/imported/asteroid1.png-f02475d4e06bc80efa25620c785499de.ctex"
+path="res://.godot/imported/asteroid1.png-908e2f785623581111aca3d0b2451266.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/asteroid1.png"
-dest_files=["res://.godot/imported/asteroid1.png-f02475d4e06bc80efa25620c785499de.ctex"]
+source_file="res://Old Assets/Textures/asteroid1.png"
+dest_files=["res://.godot/imported/asteroid1.png-908e2f785623581111aca3d0b2451266.ctex"]
 
 [params]
 
